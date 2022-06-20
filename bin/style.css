@@ -1,0 +1,12 @@
+.btnDesigner{
+    -fx-background-color : #3c0ad1 ;
+    -fx-background-radius: 100px;
+}
+.btnDesigner:hover{
+    -fx-background-color : #2b059d ;
+    
+}
+.panel{
+    -fx-background-color : rgb(169, 163, 214);
+    
+}
